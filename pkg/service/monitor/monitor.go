@@ -3,9 +3,9 @@ package monitor
 import (
 	"errors"
 	"fmt"
-	"github.com/bennsimon/uptime-robot-tooling/internal/pkg/util/httputil"
-	"github.com/bennsimon/uptime-robot-tooling/pkg/model"
-	"github.com/bennsimon/uptime-robot-tooling/pkg/service"
+	"github.com/bennsimon/uptimerobot-tooling/internal/pkg/util/httputil"
+	"github.com/bennsimon/uptimerobot-tooling/pkg/model"
+	"github.com/bennsimon/uptimerobot-tooling/pkg/service"
 	log "github.com/sirupsen/logrus"
 	"math"
 	"os"

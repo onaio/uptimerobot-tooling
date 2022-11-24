@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/bennsimon/uptime-robot-tooling/pkg/model"
-	"github.com/bennsimon/uptime-robot-tooling/pkg/provider"
+	"github.com/bennsimon/uptimerobot-tooling/pkg/model"
+	"github.com/bennsimon/uptimerobot-tooling/pkg/provider"
 )
 
 type IService interface {

@@ -2,8 +2,8 @@ package main
 
 import (
 	"flag"
-	"github.com/bennsimon/uptime-robot-tooling/pkg/handler"
-	"github.com/bennsimon/uptime-robot-tooling/pkg/model"
+	"github.com/bennsimon/uptimerobot-tooling/pkg/handler"
+	"github.com/bennsimon/uptimerobot-tooling/pkg/model"
 	log "github.com/sirupsen/logrus"
 )
 

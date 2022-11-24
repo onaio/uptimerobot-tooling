@@ -1,6 +1,6 @@
 # UPTIME ROBOT TOOLING
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  [![Go](https://github.com/bennsimon/uptime-robot-tooling/actions/workflows/go.yaml/badge.svg?branch=main)](https://github.com/bennsimon/uptime-robot-tooling/actions/workflows/go.yaml)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  [![Go](https://github.com/bennsimon/uptimerobot-tooling/actions/workflows/go.yaml/badge.svg?branch=main)](https://github.com/bennsimon/uptimerobot-tooling/actions/workflows/go.yaml)
 
 This a tool that helps automate the CRUD tasks for [uptime robot](https://uptimerobot.com/).
 

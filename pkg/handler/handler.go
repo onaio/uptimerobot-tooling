@@ -1,9 +1,9 @@
 package handler
 
 import (
-	"github.com/bennsimon/uptime-robot-tooling/internal/pkg/util/fileutil"
-	"github.com/bennsimon/uptime-robot-tooling/pkg/model"
-	"github.com/bennsimon/uptime-robot-tooling/pkg/service/monitor"
+	"github.com/bennsimon/uptimerobot-tooling/internal/pkg/util/fileutil"
+	"github.com/bennsimon/uptimerobot-tooling/pkg/model"
+	"github.com/bennsimon/uptimerobot-tooling/pkg/service/monitor"
 	log "github.com/sirupsen/logrus"
 	"strings"
 )
