@@ -2,9 +2,9 @@ package handler
 
 import (
 	"fmt"
-	"github.com/bennsimon/uptimerobot-tooling/internal/pkg/util/httputil"
 	"github.com/bennsimon/uptimerobot-tooling/pkg/model"
 	"github.com/bennsimon/uptimerobot-tooling/pkg/service/monitor"
+	"github.com/bennsimon/uptimerobot-tooling/pkg/util/httputil"
 	"reflect"
 	"testing"
 )
