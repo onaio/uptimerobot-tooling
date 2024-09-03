@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/bennsimon/uptimerobot-tooling/pkg/provider"
+	"github.com/onaio/uptimerobot-tooling/pkg/provider"
 	log "github.com/sirupsen/logrus"
 	"io"
 	"net/http"

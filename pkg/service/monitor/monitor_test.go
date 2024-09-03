@@ -3,9 +3,9 @@ package monitor
 import (
 	"errors"
 	"fmt"
-	"github.com/bennsimon/uptimerobot-tooling/pkg/model"
-	"github.com/bennsimon/uptimerobot-tooling/pkg/service"
-	"github.com/bennsimon/uptimerobot-tooling/pkg/util/httputil"
+	"github.com/onaio/uptimerobot-tooling/pkg/model"
+	"github.com/onaio/uptimerobot-tooling/pkg/service"
+	"github.com/onaio/uptimerobot-tooling/pkg/util/httputil"
 	"github.com/stretchr/testify/mock"
 	"reflect"
 	"testing"

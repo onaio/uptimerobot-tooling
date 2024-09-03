@@ -1,4 +1,4 @@
-module github.com/bennsimon/uptimerobot-tooling
+module github.com/onaio/uptimerobot-tooling
 
 go 1.19
 
